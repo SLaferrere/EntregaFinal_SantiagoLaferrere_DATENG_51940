@@ -1,4 +1,3 @@
-# Este es el DAG que orquesta el ETL de la tabla users
 from datetime import datetime
 from datetime import timedelta
 
