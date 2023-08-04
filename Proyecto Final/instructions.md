@@ -86,6 +86,6 @@ docker-compose up --build
     * Value: `Edad a la cual consideramos menores de edad`
         * La API usada no genera registros de personas con 21 años o menos, por lo que para los fines practicos, esta deberia ser seteada en 20 para no "romper" y 25 para "romper".
           En caso de recibir una notificacion:
-             ![alt text]https://github.com/SLaferrere/EntregaFinal_SantiagoLaferrere_DATENG_51940/blob/main/Proyecto%20Final/imagenes/Email%20.png
+             ![alt text](https://github.com/SLaferrere/EntregaFinal_SantiagoLaferrere_DATENG_51940/blob/main/Proyecto%20Final/imagenes/Email%20.png)
          
 15. Ejecutar el DAG `etl_users`.
