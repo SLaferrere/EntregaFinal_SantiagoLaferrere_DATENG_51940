@@ -1,0 +1,5 @@
+.env
+logs
+plugins
+postgres_data
+__pycache__
