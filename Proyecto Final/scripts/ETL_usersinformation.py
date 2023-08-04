@@ -69,7 +69,7 @@ def get_data():
         else datetime.now().strftime("%Y-%m-%d")
     )
 
-    """Creadcion de DataFrame temporal donde
+    """Creacion de DataFrame temporal donde
     se insertan, en caso de haber, la informacion
     de todos los menores de edad encontrados"""
     age_check = (
