@@ -84,6 +84,8 @@ docker-compose up --build
 14. En la pestaña `Admin -> Variables` crear una nueva variable con los siguientes datos:
     * Key: `UNDERAGE`
     * Value: `Edad a la cual consideramos menores de edad`
-        * La API usada no genera registros de personas con 21 años o menos, por lo que para los fines practicos, esta deberia ser seteada en 20 para no "romper" y 25 para "romper"
-
+        * La API usada no genera registros de personas con 21 años o menos, por lo que para los fines practicos, esta deberia ser seteada en 20 para no "romper" y 25 para "romper".
+          En caso de recibir una notificacion:
+             ![alt text]https://github.com/SLaferrere/EntregaFinal_SantiagoLaferrere_DATENG_51940/blob/main/Proyecto%20Final/imagenes/Email%20.png
+         
 15. Ejecutar el DAG `etl_users`.
