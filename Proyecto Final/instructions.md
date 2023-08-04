@@ -18,7 +18,7 @@ Los archivos a tener en cuenta son:
     * `clean_load_date.sql`: Script de SQL para la eliminar las cargas del mismo dia.
     * `ETL_usersinformation.py`: Script de Spark que ejecuta el ETL.
 
-# Pasos para ejecutar el Entregable 3
+# Pasos para ejecutar el ETL
 1. Posicionarse en la carpeta `Proyecto Final`. A esta altura debería ver el archivo `docker-compose.yml`.
 
 2. Crear las siguientes carpetas a la misma altura del `docker-compose.yml`.
